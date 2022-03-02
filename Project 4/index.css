@@ -232,21 +232,24 @@ nav {
   }
   .links a {
     padding: 0;
+    text-decoration: none;
     margin: 0 0.5rem;
+    color: var(--clr-primary-7);
   }
   .links a:hover {
     padding: 0;
     background: transparent;
+    color: var(--clr-primary-5);
   }
   .social-icons {
     display: flex;
   }
   .social-icons a {
     margin: 0 0.5rem;
-    color: var(--clr-primary-5);
+    color: var(--clr-primary-7);
     transition: var(--transition);
   }
   .social-icons a:hover {
-    color: var(--clr-primary-7);
+    color: var(--clr-primary-5);
   }
 }
