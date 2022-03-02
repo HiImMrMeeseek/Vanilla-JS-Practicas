@@ -1,0 +1,98 @@
+*{
+    --color-principal: #0e0e10;
+    --color-secundario: #1c1c1e;
+    --color-marca: #9147ff;
+    --color-marca2: #8137ff;
+    --color-marca3: #a157ff;
+    --color-blanco: #f0f0f0;
+
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: var(--color-principal);
+}
+
+.container{
+    border: 2px solid var(--color-secundario);
+    background: var(--color-principal);
+    margin: 20px;
+    padding: 20px;
+    width: 300px;
+    border-radius: 3px;
+}
+
+.contador-container{
+    border-top: 3px solid var(--color-secundario);
+    border-left: 1px solid var(--color-secundario);
+    border-right: 1px solid var(--color-secundario);
+    text-align: center;
+    height: 60px;
+    background: linear-gradient(to bottom, var(--color-marca) 0%, transparent );
+    color: var(--color-blanco);
+    text-shadow: 3px 1px 5px var(--color-principal);
+}
+
+.btn-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 60px 0 60px;
+}
+
+.btn1{
+    background: var(--color-marca);
+    border: none;
+    border: 2px solid var(--color-secundario);
+    padding: 2px 5px;
+    color: var(--color-blanco);
+    border-radius: 4px;
+    transition: transform 0.5s, border 0.3s;
+}
+
+.btn1:hover{
+    background: var(--color-marca2);
+    transform: scale(1.05);
+}
+
+.btn1:active{
+    border-color: var(--color-marca3);
+}
+
+.btn2{
+    background: var(--color-marca);
+    border: none;
+    border: 2px solid var(--color-secundario);
+    padding: 2px 5px;
+    color: var(--color-blanco);
+    border-radius: 4px;
+    transition: transform 0.1s, border 0.3s;
+}
+
+.btn2:hover{
+    background: var(--color-marca2);
+    transform: scale(1.05);
+}
+
+.btn2:active{
+    border-color: var(--color-marca3);
+}
+
+.btn3{
+    background: var(--color-marca);
+    border: none;
+    border: 2px solid var(--color-secundario);
+    padding: 2px 5px;
+    color: var(--color-blanco);
+    border-radius: 4px;
+    transition: transform 0.5s, border 0.3s;
+}
+
+.btn3:hover{
+    background: var(--color-marca2);
+    transform: scale(1.05);
+}
+
+.btn3:active{
+    border-color: var(--color-marca3);
+}
