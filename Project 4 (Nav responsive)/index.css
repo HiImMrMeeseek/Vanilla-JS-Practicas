@@ -159,6 +159,7 @@ Navbar
 nav {
   background: var(--clr-white);
   box-shadow: var(--light-shadow);
+  
 }
 .nav-header {
   display: flex;
@@ -194,6 +195,7 @@ nav {
   padding: 0.5rem 1rem;
   transition: var(--transition);
   border-radius: 5px;
+  text-decoration: none;
 }
 .links a:hover {
   background: linear-gradient(to right, var(--clr-primary-8), transparent);
