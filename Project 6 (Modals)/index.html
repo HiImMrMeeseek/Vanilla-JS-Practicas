@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ventana modal</title>
+  <!-- font-awesome -->
+  <script src="https://kit.fontawesome.com/077744d74a.js" crossorigin="anonymous"></script>
+  <!-- styles -->
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <!-- hero -->
+  <header class="hero">
+    <div class="banner">
+      <h1>Ventana modal</h1>
+      <button class="btn modal-btn">
+        Abrir ventana modal
+      </button>
+    </div>
+  </header>
+  <!-- end of hero -->
+  <!-- modal -->
+  <div class="modal-overlay">
+    <div class="modal-container">
+      <h3>Iniciar sesión</h3>
+      <input id="input1" class="modal-input" type="email" placeholder="Ingrese su email">
+      <input id="input2" class="modal-input" type="password" placeholder="Ingrese su contraseña">
+      <button type="submit" class="iniciar-sesion">
+        Acceder
+      </button>
+      <button class="close-btn">
+        <i class="fas fa-times"></i>
+      </button>
+    </div>
+  </div>
+  <!-- javascript -->
+  <script src="app.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</body>
+
+</html>
