@@ -1,0 +1,33 @@
+<!-- FRONTEND --!>
+https://platzi.com/clases/2484-react-practico/42067-que-es-reactjs/ - Curso practico de react.js
+https://platzi.com/clases/1789-asincronismo-js/24994-introduccion-al-asincronismo/ - js. introduccion al async
+https://platzi.com/clases/2118-react-hooks/33466-que-aprenderas-en-el-curso-profesional-de-react-ho/ - curso pro de react hooks
+https://platzi.com/clases/1601-react-avanzado/21254-proyecto-y-tecnologias-que-usaremos/ - react avanzado
+https://platzi.com/clases/2597-react-estado/43688-dime-como-manejas-el-estado-y-te-dire/ - manejo de estados react
+https://platzi.com/clases/1642-javascript-profesional/22156-que-significa-ser-un-profesional-de-javascript/ - curso pro de js
+https://platzi.com/clases/2193-dom/34854-y-entonces-nacio-internet/ - manipulacion del DOM
+https://platzi.com/clases/1807-scope/25870-introduccion-y-bienvenida-al-curso/ - closures y scope js
+
+<!-- BACKEND --!>
+https://platzi.com/clases/2508-introduccion-backend/41810-te-doy-la-bienvenida-al-desarrollo-backend/ - introduccion al backend
+https://platzi.com/clases/1759-fundamentos-node/25640-instalacion-de-nodejs/ - fundamentos de node.js
+https://platzi.com/clases/1689-nodejs-mongo-websockets/22624-bienvenida-y-presentacion-del-curso/ - database con mongodb
+https://platzi.com/clases/2485-backend-nodejs/41743-que-es-expressjs/ - backend con node.js API rest
+https://platzi.com/clases/2489-passport/41827-como-autenticar-usuarios-con-nodejs/ - backend con node.js passport.js
+https://platzi.com/clases/1767-nodejs-microservicios/25315-arquitectura-de-un-backend-complejo/ - node.js autenticacion, microservicios, redis.
+
+https://platzi.com/clases/1197-javascript-pro/8987-nuevo-curso-definitivo-de-javascript/ - JS fullstack Sails.js
+https://platzi.com/clases/1813-js-sails/26880-introduccion-y-bienvenida-al-curso/ - desarrollo de APIs con Sails.js
+
+<!-- LIBRERIAS COMPLEMENTARIAS --!>
+https://platzi.com/clases/2242-webpack/36261-que-es-webpack/ - webpack
+https://platzi.com/clases/2740-redux-profesional/46264-ya-tomaste-el-curso-basico-de-redux/ - react y redux
+https://platzi.com/clases/1991-next/30594-construir-una-web-app-con-react-no-es-facil/ - next.js
+https://platzi.com/clases/2690-nextjs-practico/46524-nextjs-en-la-escuela-de-javascript/ - next.js practico
+
+
+<!-- OTROS CURSOS --!>
+https://platzi.com/clases/1584-portafolios/19656-introduccion-y-bienvenida-al-curso/ - curso de cv y portafolio
+https://platzi.com/clases/1750-scrum/24278-que-es-una-metodologia-agil/ - metodologias agiles (scrum)
+https://platzi.com/clases/1557-git-github/19934-por-que-usar-un-sistema-de-control-de-versiones-co/ - git y github
+https://platzi.com/clases/2641-conseguir-trabajo-frontend/44596-que-necesitas-para-convertirte-en-frontend-develop/ - conseguir trabajo frontend

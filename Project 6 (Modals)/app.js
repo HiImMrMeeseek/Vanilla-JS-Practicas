@@ -16,7 +16,7 @@ const email = document.querySelector('#input1');
 const password = document.querySelector('#input2');
 const isBtn = document.querySelector('.iniciar-sesion');
 
-isBtn.addEventListener('click', function(e) {
+isBtn.addEventListener('click', function (e) {
     e.preventDefault();
 
     if (email.value == "") {
